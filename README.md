@@ -47,14 +47,6 @@ Enterprise Networking • Cybersecurity • Cloud
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaomurila&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomurila&layout=compact&theme=github_dark)
-
----
-
 ## 📫 Contact
 
 - 💼 LinkedIn: https://linkedin.com/in/joaomurila
