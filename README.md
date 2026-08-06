@@ -12,7 +12,7 @@ Enterprise Networking • Cybersecurity • Cloud
 - 🌐 Focused on Enterprise Networking, Cybersecurity and Cloud
 - 🖥️ Experience with Windows Server, Active Directory and Microsoft 365
 - 🔀 Cisco, Aruba and Dell Networking
-- ☁️ Microsoft Azure
+- ☁️ Microsoft Azure and AWS
 - 💻 Virtualization (Hyper-V / VMware)
 - 🐧 Linux
 - 🚀 Always learning new technologies
