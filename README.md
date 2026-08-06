@@ -22,7 +22,7 @@ Enterprise Networking • Cybersecurity • Cloud
 ## 🛠️ Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=windows,linux,azure,powershell,bash,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=windows,linux,aws,powershell,bash,git,github" />
 </p>
 
 ### Networking
