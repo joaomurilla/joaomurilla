@@ -1,52 +1,31 @@
-# Hi, I'm João Victor Branco Murila 👋
+# Olá, eu sou João Victor Branco Murila 👋
 
-**IT Infrastructure & Network Analyst**
+**Analista de Infraestrutura de TI e Redes**
 
-Enterprise Networking • Cybersecurity • Cloud
-
----
-
-## 👨‍💻 About Me
-
-- 🏥 IT Infrastructure & Network Analyst at Hospital de Amor
-- 🌐 Focused on Enterprise Networking, Cybersecurity and Cloud
-- 🖥️ Experience with Windows Server, Active Directory and Microsoft 365
-- 🔀 Cisco, Aruba and Dell Networking
-- ☁️ Microsoft Azure and AWS
-- 💻 Virtualization (Hyper-V / VMware)
-- 🐧 Linux
-- 🚀 Always learning new technologies
+Infraestrutura de TI • Redes • Cibersegurança • Cloud
 
 ---
 
-## 🛠️ Technologies
+## 👨‍💻 Sobre mim
 
-<p>
-<img src="https://skillicons.dev/icons?i=windows,linux,aws,azure,powershell,bash,git,github" />
-</p>
-
-### Networking
-
-- Cisco
-- Aruba
-- Dell Technologies
-- VLAN
-- STP / RSTP
-- LLDP
-- DHCP
-- DNS
-- VPN
-- Switching & Routing
+- 🏥 Analista de Infraestrutura de TI e Redes no Hospital de Amor
+- 🌐 Experiência com redes corporativas, infraestrutura de TI e cibersegurança
+- 🖥️ Experiência com Windows Server, Active Directory e Microsoft 365
+- 🔀 Experiência com ambientes de rede corporativa
+- ☁️ Conhecimentos em Microsoft Azure e AWS
+- 💻 Experiência com virtualização (Hyper-V / VMware)
+- 🐧 Experiência com ambientes Linux
+- 🚀 Sempre buscando aprender e evoluir profissionalmente
 
 ---
 
-## 📜 Certifications
+## 📜 Certificações
 
 - ✅ Microsoft Azure Fundamentals (AZ-900)
 - ✅ Oracle Cloud Infrastructure Generative AI Certified Professional
 
 ---
 
-## 📫 Contact
+## 📫 Contato
 
-- 💼 LinkedIn: https://linkedin.com/in/joaomurila
+- 💼 LinkedIn: [linkedin.com/in/joaomurila](https://linkedin.com/in/joaomurila)
