@@ -1,28 +1,35 @@
-# Olá, eu sou João Victor Branco Murila 👋
+# 👋 Sobre Mim
 
-**Analista de Infraestrutura de TI e Redes**
+Olá! Sou **João Victor Branco Murila**, Analista de Infraestrutura de TI e Redes, com experiência em ambientes corporativos e atuação nas áreas de **redes, infraestrutura, cibersegurança e cloud**.
 
-Infraestrutura de TI • Redes • Cibersegurança • Cloud
+Atualmente, trabalho como **Analista de Suporte II no Hospital de Amor**, atuando na administração e sustentação de ambientes de TI, redes corporativas, servidores, serviços de infraestrutura e segurança.
 
----
-
-## 👨‍💻 Sobre mim
-
-- 🏥 Analista de Infraestrutura de TI e Redes no Hospital de Amor
-- 🌐 Experiência com redes corporativas, infraestrutura de TI e cibersegurança
-- 🖥️ Experiência com Windows Server, Active Directory e Microsoft 365
-- 🔀 Experiência com ambientes de rede corporativa
-- ☁️ Conhecimentos em Microsoft Azure e AWS
-- 💻 Experiência com virtualização (Hyper-V / VMware)
-- 🐧 Experiência com ambientes Linux
-- 🚀 Sempre buscando aprender e evoluir profissionalmente
+Tenho experiência com ambientes de rede, administração de servidores, virtualização, Active Directory, serviços em nuvem, segurança da informação e suporte a ambientes críticos.
 
 ---
 
 ## 📜 Certificações
 
-- ✅ Microsoft Azure Fundamentals (AZ-900)
-- ✅ Oracle Cloud Infrastructure Generative AI Certified Professional
+- Microsoft Azure Fundamentals (AZ-900)
+- Oracle Cloud Infrastructure Generative AI Certified Professional
+
+---
+
+## 🎓 Formação
+
+- Bacharelado em Sistemas de Informação — UNIFEB
+- Pós-graduação em Arquitetura e Gestão de Infraestrutura de TI
+- MBA em Gestão de Projetos em TI — Cursando
+
+---
+
+## 💼 Experiência
+
+- Analista de Suporte II — Hospital de Amor
+- Técnico de Suporte II
+- Técnico de Suporte
+- Auxiliar de Suporte Técnico
+- Docente — Senac São Paulo
 
 ---
 
