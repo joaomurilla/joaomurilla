@@ -25,11 +25,16 @@ Tenho experiência com ambientes de rede, administração de servidores, virtual
 
 ## 💼 Experiência
 
-- Analista de Suporte II — Hospital de Amor
-- Técnico de Suporte II
-- Técnico de Suporte
-- Auxiliar de Suporte Técnico
-- Docente — Senac São Paulo
+### 🏥 Hospital de Amor
+
+- **Analista de Suporte II** — 2026 - Atualmente
+- **Técnico de Suporte II** — 2024 - 2026
+- **Técnico de Suporte** — 2022 - 2024
+- **Auxiliar de Suporte Técnico** — 2021 - 2022
+
+### 👨‍🏫 Senac São Paulo
+
+- **Docente — Técnico em Informática** — 2025
 
 ---
 
